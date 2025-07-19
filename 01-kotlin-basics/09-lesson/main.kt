@@ -1,4 +1,4 @@
-// 01-kotlin-basics - dars 9
+// module01_intro_to_kotlin - Lesson 9
 fun main() {
-    println("Dars 9")
+    println("Hello from lesson 9!")
 }
