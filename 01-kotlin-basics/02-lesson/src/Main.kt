@@ -1,10 +1,10 @@
 fun main(args: Array<String>) {
-    println("PDP Online")
+    println("FIFA Online")
 
-    var website = "pdp.uz"
+    var website = "FIFA.uz"
     println("Website:$website")
 
-    var a: String = "Personal Development Process"
+    var a: String = "Men kimman"
     println("IT akasemiya:$a")
 
     val myVal = 5

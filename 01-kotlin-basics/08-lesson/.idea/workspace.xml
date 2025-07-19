@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/01-kotlin-basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-lesson/.idea/01-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-lesson/.idea/02-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03-lesson/.idea/03-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-lesson/.idea/04-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-lesson/.idea/05-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-lesson/.idea/06-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-lesson/.idea/07-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dars 8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/08-lesson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dars 8/ArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dars 8/META-INF/Dars 8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Dars 8/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/08-lesson/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/10-lesson/main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Raxmonov-Bunyodjon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Raxmonov-Bunyodjon/kotlin-android-bootcamp.git&quot;,
+    &quot;accountId&quot;: &quot;39de550e-6d5f-4a5c-834b-349927e9cad1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="305zmMaKLMcFeZwzLmOxpzj6PXH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/bunyodjonraxmonov/kotlin-android-bootcamp/01-kotlin-basics/08-lesson/src/Main.kt&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="" />
+      <created>1752932379391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752932379391</updated>
+    </task>
+    <servers />
+  </component>
+</project>

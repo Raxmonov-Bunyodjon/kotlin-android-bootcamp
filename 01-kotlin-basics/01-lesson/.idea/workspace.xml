@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fbff92f-5100-4aa3-9d84-a42cd92823e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/01-kotlin-basics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-lesson/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-lesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../08-lesson/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Salom dunyo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Salom dunyo/META-INF/Salom dunyo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Salom dunyo/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/Dars 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/META-INF/Dars 2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/Main2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/Main3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/Main4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/Main5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/Topshiriq_1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/Topshiriq_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/out/production/Dars 2/Topshiriq_3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Main2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Main3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Main4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Main5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Topshiriq 1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Topshiriq 2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-lesson/src/Topshiriq 3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/Dars 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/META-INF/Dars 3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main10Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main11Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Main9Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Topshiriq_1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Topshiriq_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Topshiriq_3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Topshiriq_4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/out/production/Dars 3/Topshiriq_5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main11.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Main9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Topshiriq-1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Topshiriq-2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Topshiriq-3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Topshiriq-4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-lesson/src/Topshiriq-5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/Dars 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/EscapedStringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/KvadratTenglamaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/META-INF/Dars 4.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Main2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Qo_shimchaTopshiriqKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/StringFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/out/production/Dars 4/Topshiriq_9Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/EscapedString.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/KvadratTenglama.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Main2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Qo`shimchaTopshiriq.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/StringFunctions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-lesson/src/Topshiriq-9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/Dars 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/CalculatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/META-INF/Dars 5.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main10Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Main9Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/out/production/Dars 5/Topshiriq_8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Calculator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Main9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-lesson/src/Topshiriq-8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/Dars 6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/META-INF/Dars 6.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main10Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main11Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main12Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main13Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main14Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main15Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Main9Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/MathGameKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Qo_shimchaTopshiriqKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/out/production/Dars 6/Topshiriq_8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main11.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main12.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main13.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main14.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main15.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Main9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/MathGame.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Qo'shimchaTopshiriq.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-lesson/src/Topshiriq-8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/Dars 7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/META-INF/Dars 7.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main10Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main11Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main12Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main13Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Main9Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Structure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_1Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_4Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_7Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/out/production/Dars 7/Topshiriq_8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main11.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main12.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main13.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Main9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Structure.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-lesson/src/Topshiriq-8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-lesson/Dars 8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../08-lesson/08-lesson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-lesson/out/production/Dars 8/ArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-lesson/out/production/Dars 8/META-INF/Dars 8.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-lesson/out/production/Dars 8/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../08-lesson/out/production/08-lesson/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-lesson/src/Array.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08-lesson/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../08-lesson/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-kotlin-advanced/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-android-basic/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05-advanced-ui/10-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/01-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/02-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/03-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/04-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/05-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/06-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/07-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/08-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/09-lesson/main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-android-database/10-lesson/main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Raxmonov-Bunyodjon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Raxmonov-Bunyodjon/kotlin-android-bootcamp.git&quot;,
+    &quot;accountId&quot;: &quot;39de550e-6d5f-4a5c-834b-349927e9cad1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3060mgznJutuOeExcjkEeC1Vxos" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/bunyodjonraxmonov/kotlin-android-bootcamp/01-kotlin-basics/01-lesson/src/Main.kt&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="01-lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fbff92f-5100-4aa3-9d84-a42cd92823e7" name="Changes" comment="" />
+      <created>1752932875586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752932875586</updated>
+    </task>
+    <servers />
+  </component>
+</project>
