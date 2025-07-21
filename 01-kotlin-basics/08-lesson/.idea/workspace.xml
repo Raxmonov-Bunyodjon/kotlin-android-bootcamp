@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/08-lesson/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/08-lesson/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="305zmMaKLMcFeZwzLmOxpzj6PXH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,17 +52,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.Main1Kt.executor": "Run",
+    "Kotlin.Main2Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/bunyodjonraxmonov/kotlin-android-bootcamp/01-kotlin-basics/08-lesson/src/Main.kt"
+    "onboarding.tips.debug.path": "/Users/bunyodjonraxmonov/kotlin-android-bootcamp/01-kotlin-basics/08-lesson/src/Main.kt",
+    "settings.editor.selected.configurable": "MTHome"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Main1Kt">
+  <component name="RunManager" selected="Kotlin.Main2Kt">
     <configuration name="Main1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main1Kt" />
+      <module name="08-lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2Kt" />
       <module name="08-lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,10 +86,14 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main2Kt" />
         <item itemvalue="Kotlin.Main1Kt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,5 +104,16 @@
       <updated>1752932379391</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

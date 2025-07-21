@@ -12,4 +12,7 @@ fun main(args: Array<String>) {
 
     println(b.first())
     println(b.last())
+
+    val index = b.indexOf("Android")
+    println(index)
 }
