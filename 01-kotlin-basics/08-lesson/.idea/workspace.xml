@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Registration.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +59,7 @@
     "Kotlin.Main8Kt.executor": "Run",
     "Kotlin.Main9Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.RegistrationKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -73,14 +68,7 @@
     "settings.editor.selected.configurable": "MTHome"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Main9Kt">
-    <configuration name="Main5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main5Kt" />
-      <module name="08-lesson" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.RegistrationKt">
     <configuration name="Main6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main6Kt" />
       <module name="08-lesson" />
@@ -109,13 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegistrationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegistrationKt" />
+      <module name="08-lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RegistrationKt" />
         <item itemvalue="Kotlin.Main9Kt" />
         <item itemvalue="Kotlin.Main8Kt" />
         <item itemvalue="Kotlin.Main7Kt" />
         <item itemvalue="Kotlin.Main6Kt" />
-        <item itemvalue="Kotlin.Main5Kt" />
       </list>
     </recent_temporary>
   </component>
