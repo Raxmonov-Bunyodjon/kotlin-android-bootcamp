@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main9.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +57,13 @@
   "keyToString": {
     "Kotlin.Main1Kt.executor": "Run",
     "Kotlin.Main2Kt.executor": "Run",
+    "Kotlin.Main3Kt.executor": "Run",
+    "Kotlin.Main4Kt.executor": "Run",
+    "Kotlin.Main5Kt.executor": "Run",
+    "Kotlin.Main6Kt.executor": "Run",
+    "Kotlin.Main7Kt.executor": "Run",
+    "Kotlin.Main8Kt.executor": "Run",
+    "Kotlin.Main9Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,23 +73,37 @@
     "settings.editor.selected.configurable": "MTHome"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Main2Kt">
-    <configuration name="Main1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main1Kt" />
+  <component name="RunManager" selected="Kotlin.Main9Kt">
+    <configuration name="Main5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main5Kt" />
       <module name="08-lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main2Kt" />
+    <configuration name="Main6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main6Kt" />
       <module name="08-lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="Main7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main7Kt" />
+      <module name="08-lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main8Kt" />
+      <module name="08-lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main9Kt" />
       <module name="08-lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,9 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Main2Kt" />
-        <item itemvalue="Kotlin.Main1Kt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.Main9Kt" />
+        <item itemvalue="Kotlin.Main8Kt" />
+        <item itemvalue="Kotlin.Main7Kt" />
+        <item itemvalue="Kotlin.Main6Kt" />
+        <item itemvalue="Kotlin.Main5Kt" />
       </list>
     </recent_temporary>
   </component>
