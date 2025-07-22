@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Topshiriq-1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Topshiriq-2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,6 +61,7 @@
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.RegistrationKt.executor": "Run",
     "Kotlin.Topshiriq_1Kt.executor": "Run",
+    "Kotlin.Topshiriq_2Kt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -69,14 +70,7 @@
     "settings.editor.selected.configurable": "MTHome"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Topshiriq_1Kt">
-    <configuration name="Main7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main7Kt" />
-      <module name="08-lesson" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Topshiriq_2Kt">
     <configuration name="Main8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main8Kt" />
       <module name="08-lesson" />
@@ -105,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Topshiriq_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Topshiriq_2Kt" />
+      <module name="08-lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Topshiriq_2Kt" />
         <item itemvalue="Kotlin.Topshiriq_1Kt" />
         <item itemvalue="Kotlin.RegistrationKt" />
         <item itemvalue="Kotlin.Main9Kt" />
         <item itemvalue="Kotlin.Main8Kt" />
-        <item itemvalue="Kotlin.Main7Kt" />
       </list>
     </recent_temporary>
   </component>
