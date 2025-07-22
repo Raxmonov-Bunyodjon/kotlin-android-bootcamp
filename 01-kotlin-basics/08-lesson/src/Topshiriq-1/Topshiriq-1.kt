@@ -1,3 +1,5 @@
+package `Topshiriq-1`
+
 import java.util.Scanner
 
 fun main(args: Array<String>) {

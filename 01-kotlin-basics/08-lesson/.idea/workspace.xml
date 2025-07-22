@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Topshiriq-2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Topshiriq-1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Topshiriq-2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Topshiriq-3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Topshiriq-3/Topshiriq-3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Topshiriq-1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Topshiriq-1/Topshiriq-1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Topshiriq-2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Topshiriq-2/Topshiriq-2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +66,8 @@
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.RegistrationKt.executor": "Run",
     "Kotlin.Topshiriq_1Kt.executor": "Run",
-    "Kotlin.Topshiriq_2Kt.executor": "Run",
+    "Kotlin.Topshiriq_2Kt.executor": "Debug",
+    "Kotlin.Topshiriq_3Kt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -70,14 +76,14 @@
     "settings.editor.selected.configurable": "MTHome"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Topshiriq_2Kt">
-    <configuration name="Main8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main8Kt" />
-      <module name="08-lesson" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="Topshiriq-2" />
+      <recent name="Topshiriq-1" />
+      <recent name="Topshiriq-3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Topshiriq_3Kt">
     <configuration name="Main9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main9Kt" />
       <module name="08-lesson" />
@@ -93,14 +99,21 @@
       </method>
     </configuration>
     <configuration name="Topshiriq_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Topshiriq_1Kt" />
+      <option name="MAIN_CLASS_NAME" value="Topshiriq-1.Topshiriq_1Kt" />
       <module name="08-lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Topshiriq_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Topshiriq_2Kt" />
+      <option name="MAIN_CLASS_NAME" value="Topshiriq-2.Topshiriq_2Kt" />
+      <module name="08-lesson" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topshiriq_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Topshiriq-3.Topshiriq_3Kt" />
       <module name="08-lesson" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Topshiriq_3Kt" />
         <item itemvalue="Kotlin.Topshiriq_2Kt" />
         <item itemvalue="Kotlin.Topshiriq_1Kt" />
         <item itemvalue="Kotlin.RegistrationKt" />
         <item itemvalue="Kotlin.Main9Kt" />
-        <item itemvalue="Kotlin.Main8Kt" />
       </list>
     </recent_temporary>
   </component>
