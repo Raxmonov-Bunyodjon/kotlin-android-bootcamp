@@ -30,5 +30,5 @@ fun main(args: Array<String>) {
     yangiMassiv.add(massiv_N.last())
     println("O‘zgartirilgan massiv (o‘ng qo‘shni bilan o‘rtachasi):")
     println(yangiMassiv)
-    println("Elementlar soni: ${yangiMassiv.size}")
+    println("Elementlari soni: ${yangiMassiv.size}")
 }

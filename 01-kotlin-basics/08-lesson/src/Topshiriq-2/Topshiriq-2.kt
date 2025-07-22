@@ -28,5 +28,5 @@ fun main(args: Array<String>) {
         }
     }
     println("Toq sonlar o‘chirilgan holatda: $son_N")
-    println("Elementlar soni: ${son_N.size}")
+    println("Elementlari soni: ${son_N.size}")
 }

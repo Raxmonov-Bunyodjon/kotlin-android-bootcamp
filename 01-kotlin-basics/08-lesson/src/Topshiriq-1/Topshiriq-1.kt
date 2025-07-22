@@ -18,7 +18,7 @@ fun main(args: Array<String>) {
                 sonN[item] = son
                 break
             } else {
-                println("X xatolik: Faqat natural son kiriting (1,2,3,4,,,,)")
+                println("X xatolik: Faqat natural son kiriting! (1,2,3,4,,,,)")
             }
         }
     }
