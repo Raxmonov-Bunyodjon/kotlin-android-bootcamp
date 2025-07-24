@@ -6,7 +6,7 @@ Foydalanuvchi tomonidan kiritilgan `N` ta **natural sonlarni** massivga saqlab, 
 ---
 
 ### 📂 Loyihadagi fayllar:
-- `Topshiriq-1.kt` – Kotlin kod fayli
+- `Topshiriq1.kt` – Kotlin kod fayli
 - `README.md` – Loyihaning tavsif fayli
 
 ---

@@ -1,4 +1,4 @@
-package `Topshiriq-2`
+package Topshiriq3
 
 import java.util.Scanner
 
@@ -7,26 +7,28 @@ fun main(args: Array<String>) {
     println("Nechta element son bo`lishi kerak: ")
     var N = scanner.nextInt()
 
-    var son_N = mutableListOf<Int>()
+    var massiv_N = mutableListOf<Double>()
 
     println("$N ta element natural sonlarni kiriting: ")
     for (item in 1..N) {
         while (true) {
             print("$item-son: ")
-            var son = scanner.nextInt()
+            var son = scanner.nextDouble()
             if (son>0) {
-                son_N.add(son)
+                massiv_N.add(son)
                 break
             } else {
                 println("X xatolik: Faqat element natural sonlar kiriting (1,2,3,4,,,,)")
             }
         }
     }
-    for (item in son_N.size-1 downTo 0) {
-        if (son_N[item]%2!=0){
-            son_N.removeAt(item)
+    var yangiMassiv = mutableListOf<Double>()
+    for (item in 0 until massiv_N.size-1) {
+        var ortacha = (massiv_N[item] + massiv_N[item+1])/2
+        yangiMassiv.add(ortacha)
         }
-    }
-    println("Toq sonlar o‘chirilgan holatda: $son_N")
-    println("Elementlari soni: ${son_N.size}")
+    yangiMassiv.add(massiv_N.last())
+    println("O‘zgartirilgan massiv (o‘ng qo‘shni bilan o‘rtachasi):")
+    println(yangiMassiv)
+    println("Elementlari soni: ${yangiMassiv.size}")
 }

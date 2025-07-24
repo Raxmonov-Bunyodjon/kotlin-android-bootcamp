@@ -6,7 +6,7 @@ Kiritilgan N ta elementdan iborat **natural sonlar ro‘yxatidan** barcha **toq 
 ---
 
 ### 📂 Loyihadagi fayllar:
-- `Topshiriq-2.kt` – Kotlin kod fayli
+- `Topshiriq2.kt` – Kotlin kod fayli
 - `README.md` – Ushbu fayl (loyiha haqida ma’lumot)
 
 ---

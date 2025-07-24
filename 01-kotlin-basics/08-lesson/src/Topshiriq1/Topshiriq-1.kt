@@ -1,4 +1,4 @@
-package `Topshiriq-1`
+package Topshiriq1
 
 import java.util.Scanner
 

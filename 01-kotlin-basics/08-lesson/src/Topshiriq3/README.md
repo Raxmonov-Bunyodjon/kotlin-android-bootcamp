@@ -6,7 +6,7 @@ Kiritilgan N ta elementdan iborat massivning har bir elementini uning o‘ng qo�
 ---
 
 ### 📂 Fayllar:
-- `Topshiriq-3.kt` – Kotlin kod fayli
+- `Topshiriq3.kt` – Kotlin kod fayli
 - `README.md` – Loyihaga qisqacha izoh
 
 ---
