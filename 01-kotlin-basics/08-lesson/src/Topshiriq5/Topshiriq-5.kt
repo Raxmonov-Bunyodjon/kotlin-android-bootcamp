@@ -9,7 +9,13 @@ fun main(args: Array<String>) {
     println("Ikkinchi butun sonni matritsaning ustunlari uchun kiriting: ")
     var n = scanner.nextInt()
 
-    var matrix = Array(m) { row -> IntArray(n) { 10 * row } }
+    val matrix = Array(m) { IntArray(n) }
+
+    for (i in 0 until m) {
+        for (j in 0 until n) {
+            matrix[i][j] = 10 * i
+        }
+    }
 
     println("Natija matritsa:")
     for (i in 0 until m) {

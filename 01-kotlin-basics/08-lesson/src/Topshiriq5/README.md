@@ -1,14 +1,21 @@
-# 📌 Topshiriq-5: Matrix Generation in Kotlin
+# 🧮 Topshiriq-5: Matritsa yaratish va qiymatlar bilan to‘ldirish
 
+## 📄 Tavsif
 
-## 📋 Task Description
+Ushbu dastur foydalanuvchidan matritsaning o‘lchamlarini (qatorlar soni `m` va ustunlar soni `n`) kiritishni so‘raydi. So‘ngra `m x n` o‘lchamli matritsa yaratilib, har bir element qator indeksiga qarab `10 * row` ko‘rinishida qiymatlar bilan to‘ldiriladi.
 
-👉 `m` va `n` butun musbat sonlar berilgan. `m x n` o‘lchamli matritsani shunday hosil qilingki, uning **har bir i-satri elementlari `10 * i` ga teng** bo‘lsin.  
-`i = 0, 1, 2, ..., m - 1`
+## ✅ Masalan
 
-### 🔢 Misol:
+Agar foydalanuvchi quyidagi sonlarni kiritsa:
 
-Agar foydalanuvchi `m = 3` va `n = 4` deb kiritsa, chiqish quyidagicha bo‘ladi:
+Qatorlar soni (m): 3
+Ustunlar soni (n): 4
+
+nginx
+Copy
+Edit
+
+U holda chiqish quyidagicha bo‘ladi:
 
 Natija matritsa:
 0 0 0 0
@@ -19,27 +26,27 @@ kotlin
 Copy
 Edit
 
-## 💡 Solution Overview
+## 🧠 Asosiy tushunchalar
 
-Ushbu dastur quyidagi bosqichlarda ishlaydi:
-1. Foydalanuvchidan matritsa o‘lchamlari (`m` va `n`) so‘raladi.
-2. Har bir `i`-satr uchun `10 * i` qiymatlari bilan to‘ldirilgan `IntArray` yaratiladi.
-3. Matritsa ekranga chiroyli tarzda chiqariladi.
+- `Scanner` yordamida foydalanuvchidan qiymat olish
+- 2 o‘lchovli massiv (matritsa) yaratish
+- `for` sikli orqali matritsani to‘ldirish va chiqarish
 
-## 📎 Source Code
+## 💡 Dastur kodi
 
 ```kotlin
 import java.util.Scanner
 
 fun main(args: Array<String>) {
+
     val scanner = Scanner(System.`in`)
 
     println("Birinchi butun sonni matritsaning qatorlar uchun kiriting: ")
-    val m = scanner.nextInt()
+    var m = scanner.nextInt()
     println("Ikkinchi butun sonni matritsaning ustunlari uchun kiriting: ")
-    val n = scanner.nextInt()
+    var n = scanner.nextInt()
 
-    val matrix = Array(m) { row -> IntArray(n) { 10 * row } }
+    var matrix = Array(m) { row -> IntArray(n) { 10 * row } }
 
     println("Natija matritsa:")
     for (i in 0 until m) {
@@ -49,15 +56,9 @@ fun main(args: Array<String>) {
         println()
     }
 }
-📂 File Structure
-css
+👨‍💻 Muallif
+GitHub: @Raxmonov-Bunyodjon
+
+yaml
 Copy
 Edit
-/05-lesson/
-├── Task5/
-│   ├── Main.kt
-│   └── README.md
-🔗 Links
-🧑‍💻 My GitHub Profile: @Raxmonov-Bunyodjon
-
-📘 Repository: kotlin-android-bootcamp
