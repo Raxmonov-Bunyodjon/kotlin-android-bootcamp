@@ -1,14 +1,7 @@
 import java.util.Scanner
 
 fun main(args: Array<String>) {
-//Massivlar yordamida kichik lug'at dasturini yaratish.
-//
-//Massivlar yordamida lug'at dasturini yarating. So'zlarni qo'shish 2 turda olib boriladi.
-// Masalan, so'z qo'shish ENG->UZB yoki UZB->ENG. So'z va tarjimasini qo'shish, o'chirish,
-// o'zgartirish, barcha so'zlar ro'yxati(bunda 2 turda so'zlarni chiqarish imkoniyati bo'lsin),
-// so'z qidirish.
-//
-//Men tizimga 2 ta turda so'zlarni qo'sha olishim ularni boshqara olishim kerak.
+
     val scanner = Scanner(System.`in`)
 
     var eng = arrayOfNulls<String>(100)
