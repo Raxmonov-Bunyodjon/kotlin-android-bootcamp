@@ -14,15 +14,14 @@ You need to generate a matrix of size m x n such that each column of the matrix 
 Input:
 
 makefile
-Copy
-Edit
+
+
 m = 3
 n = 2
 Elements: [5, 10, 15]
 Output:
 
-Copy
-Edit
+
 5	5
 10	10
 15	15
@@ -43,8 +42,7 @@ The matrix is printed in tab-separated format.
 
 📄 Code Overview
 kotlin
-Copy
-Edit
+
 val matrix = Array(m) { IntArray(n) }
 for (i in 0 until m) {
 for (j in 0 until n) {
@@ -56,9 +54,7 @@ This loop fills each row i of the matrix with the i-th element from the input ar
 ▶️ How to Run
 Make sure you have Kotlin installed, or run it using IntelliJ IDEA or any online Kotlin compiler.
 
-bash
-Copy
-Edit
+
 kotlinc MatrixGenerator.kt -include-runtime -d MatrixGenerator.jar
 java -jar MatrixGenerator.jar
 📬 Author

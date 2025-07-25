@@ -11,9 +11,7 @@ Agar foydalanuvchi quyidagi sonlarni kiritsa:
 Qatorlar soni (m): 3
 Ustunlar soni (n): 4
 
-nginx
-Copy
-Edit
+
 
 U holda chiqish quyidagicha bo‘ladi:
 
@@ -23,8 +21,7 @@ Natija matritsa:
 20 20 20 20
 
 kotlin
-Copy
-Edit
+
 
 ## 🧠 Asosiy tushunchalar
 
@@ -59,6 +56,4 @@ fun main(args: Array<String>) {
 👨‍💻 Muallif
 GitHub: @Raxmonov-Bunyodjon
 
-yaml
-Copy
-Edit
+

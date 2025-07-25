@@ -30,9 +30,6 @@ This is a simple console-based dictionary application built with Kotlin. It allo
 4 -> Delete a word
 5 -> Show all words in the dictionary
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -56,9 +53,6 @@ Direction: English
 Word to delete: greetings
 5 -> Show dictionary
 
-yaml
-Copy
-Edit
 
 ---
 

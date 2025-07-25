@@ -28,9 +28,7 @@ Number of integers: 5
 Enter 5 integers:
 4 7 3 8 6
 
-markdown
-Copy
-Edit
+
 
 ### Processing:
 - Last odd number: `3`
