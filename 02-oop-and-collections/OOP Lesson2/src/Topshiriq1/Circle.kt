@@ -34,7 +34,7 @@ class Circle {
     }
 
     override fun toString(): String {
-        return "User(radius=$radius, color=$color)"
+        return "Circle(radius=$radius, color=$color)"
     }
 
     fun getArea(): Double {
