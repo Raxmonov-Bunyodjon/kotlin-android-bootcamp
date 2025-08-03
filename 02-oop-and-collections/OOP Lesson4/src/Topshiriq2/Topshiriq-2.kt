@@ -59,7 +59,7 @@ fun main(args: Array<String>) {
         gender = "Male",
         id = 3,
         position = "Tester",
-        salary = 900.0
+        salary = 900.0,
     )
 
     department.assignEmploee(emp3)
