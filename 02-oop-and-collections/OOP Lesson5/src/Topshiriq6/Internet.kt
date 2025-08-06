@@ -1,22 +1,50 @@
 package Topshiriq6
 
-import javax.annotation.processing.Messager
-import javax.swing.text.Document
-
-sealed class Internet
+import java.util.Random
+import java.util.Scanner
 
 
-data class Success(var data: String) : Internet()
+sealed class Download {
+    class Info:Download(){
+        var fileName:String = ""
+        var fileSize:Double = 1.0
+        var downloadTime:Int = 1
 
-data class Failure(var messager: String) : Internet()
+        fun createInfo(){
+            var scanner = Scanner(System.`in`)
+            var random = Random()
 
-object Loading : Internet()
+            println("Fayl nomini kiriting")
+            fileName = scanner.next()
+            println("Fayl hajmini kiriting")
+            fileSize = scanner.nextDouble()
+            downloadTime = random.nextInt(100)
+        }
+        fun showInfo(){
+            println("Fayl nomi - $fileName\n" +
+                    "Fayl hajmi - $fileSize\n" +
+                    "Faylni yuklash tahminiy vaqti - $downloadTime\n sekund")
+        }
+    }
 
+    class Success:Download(){
+        fun showStatusDownlod() {
+            println("Yuklab olish muvaffaqiyatli kechdi")
+        }
 
-fun operation(internet: Internet) {
-    when (internet) {
-        is Success -> println("Natija: ${internet.data}")
-        is Failure -> println("Xatolik: ${internet.messager}")
-        Loading -> println("Yuklanmoqda...")
+    }
+
+    class Failure:Download(){
+        fun showStatusDownlod() {
+            println("Yuklab olish muvaffaqiyatsiz kechdi")
+        }
+
+    }
+
+    class Loading:Download(){
+        fun showStatusDownlod() {
+            println("Fayl yulanmoqda")
+        }
+
     }
 }
