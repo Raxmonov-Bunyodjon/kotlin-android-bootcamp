@@ -9,7 +9,7 @@ object Relationship {
         name = newName
         gender = newGender
         age = newAge
-    }
+      }
 
     fun showInfo() {
         println("👤 Ism: $name")
