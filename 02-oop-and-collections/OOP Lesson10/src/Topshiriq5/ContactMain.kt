@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
             2️⃣ Barcha kontaktlarni ko‘rish
             3️⃣ Kontaktni o‘chirish
             4️⃣ Kontaktni tahrirlash
-            5️⃣ Qidirish
+            5️⃣ Qidirish (ism yoki raqam)
             0️⃣ Chiqish
             Tanlang: 
             """.trimIndent()
@@ -40,9 +40,7 @@ fun main(args: Array<String>) {
                 contactService.addContact(name, numbers)
             }
 
-            "2" -> {
-                contactService.printContactsAll()
-            }
+            "2" -> contactService.printContactsAll()
 
             "3" -> {
                 println("O‘chirish uchun kontakt ismini kiriting:")
@@ -79,7 +77,7 @@ fun main(args: Array<String>) {
             }
 
             "0" -> {
-                println("Tizimdan chiqildi.")
+                println("🚪 Tizimdan chiqildi.")
                 break
             }
 

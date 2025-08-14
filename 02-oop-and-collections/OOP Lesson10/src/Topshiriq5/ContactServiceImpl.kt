@@ -1,55 +1,72 @@
 package Topshiriq5
 
-class ContactServiceImpl: ContactService {
-
-    private val contacts = HashMap<String, List<String>>()
-
+class ContactServiceImpl : ContactService {
+    private val contacts = mutableMapOf<String, MutableList<String>>() // name -> numbers
+    private val numberMap = mutableMapOf<String, String>() // number -> "Bu raqam bor"
 
     override fun addContact(name: String, numbers: List<String>) {
-        contacts[name] = numbers
-        println("Kontakt qo‘shildi: $name -> $numbers")
+        contacts[name] = numbers.toMutableList()
+
+        // Har bir raqamni Mapga qo‘shamiz
+        for (number in numbers) {
+            numberMap[number] = "✅ Bu raqam bor"
+        }
+
+        println("📌 Kontakt qo‘shildi: $name")
     }
 
     override fun printContactsAll() {
         if (contacts.isEmpty()) {
-            println("Kontaktlar ro‘yxati bo‘sh")
-        } else {
-            println("Barcha kontaktlar:")
-            for ((name, numbers) in contacts) {
-                println("$name -> ${numbers.joinToString(", ")}")
-            }
+            println("📭 Kontaktlar mavjud emas.")
+            return
+        }
+
+        println("📋 Barcha kontaktlar:")
+        contacts.forEach { (name, numbers) ->
+            println("👤 $name: ${numbers.joinToString(", ")}")
         }
     }
 
     override fun removeContact(name: String) {
-        if (contacts.remove(name) != null) {
-            println("Kontakt o‘chirildi: $name")
+        val removed = contacts.remove(name)
+        if (removed != null) {
+            // Raqamlarni Mapdan ham o‘chiramiz
+            removed.forEach { numberMap.remove(it) }
+            println("🗑 Kontakt o‘chirildi: $name")
         } else {
-            println("Kontakt topilmadi: $name")
+            println("❌ Kontakt topilmadi.")
         }
     }
 
     override fun editContact(oldName: String, newName: String, newNumbers: List<String>) {
-        if (contacts.containsKey(oldName)) {
-            contacts.remove(oldName)
-            contacts[newName] = newNumbers
-            println("✏ Kontakt yangilandi: $newName -> $newNumbers")
+        val oldNumbers = contacts.remove(oldName)
+        if (oldNumbers != null) {
+            oldNumbers.forEach { numberMap.remove(it) }
+
+            contacts[newName] = newNumbers.toMutableList()
+            newNumbers.forEach { numberMap[it] = "✅ Bu raqam bor" }
+
+            println("✏️ Kontakt tahrirlandi: $newName")
         } else {
-            println("⚠ Kontakt topilmadi: $oldName")
+            println("❌ Kontakt topilmadi.")
         }
     }
 
     override fun searchContact(query: String) {
-        val results = contacts.filter { (name, numbers) ->
-            name.equals(query, ignoreCase = true) || numbers.any { it == query }
-        }
-        if (results.isEmpty()) {
-            println("Kontakt topilmadi: $query")
+        val byName = contacts.filterKeys { it.contains(query, ignoreCase = true) }
+        val byNumber = contacts.filterValues { list -> list.any { it.contains(query) } }
+
+        if (byName.isEmpty() && byNumber.isEmpty()) {
+            println("🔍 Hech narsa topilmadi.")
         } else {
-            println("Qidiruv natijasi:")
-            for ((name, numbers) in results) {
-                println("$name -> ${numbers.joinToString(", ")}")
+            println("🔎 Qidiruv natijalari:")
+            (byName + byNumber).forEach { (name, numbers) ->
+                println("👤 $name: ${numbers.joinToString(", ")}")
             }
         }
+
+        // Map orqali raqam holatini ko‘rsatamiz
+        val status = numberMap[query] ?: "❌ Bu raqam yo‘q"
+        println("📱 Raqam holati: $status")
     }
 }
