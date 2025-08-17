@@ -20,17 +20,17 @@ fun main(args: Array<String>) {
 
         when (n) {
             1 -> {
-                println("Usernameni kiriting: ")
-                var username = scanner.next()
-                println("Parolni kiriting: ")
-                var password = scanner.next()
-                a[count] = username
-                b[count] = password
-                count++
+                    println("Usernameni kiriting: ")
+                    var username = scanner.next()
+                    println("Parolni kiriting: ")
+                    var password = scanner.next()
+                    a[count] = username
+                    b[count] = password
+                    count++
 
-                println("Muvaffaqiyatli ro'yxatdan o'tildi!")
+                    println("Muvaffaqiyatli ro'yxatdan o'tildi!")
 
-            }
+                }
 
             2 -> {
                 println("Usernameni kiriting: ")

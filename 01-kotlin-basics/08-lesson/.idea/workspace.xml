@@ -7,7 +7,8 @@
     <list default="true" id="605032f1-f63a-4c1b-8173-dcf66cf29a50" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-lesson/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Topshiriq7/Topshiriq-7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Topshiriq7/Topshiriq-7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Registration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Registration.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-oop-and-collections/OOP Lesson1/src/Topshiriq6/Topshiriq-6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-oop-and-collections/OOP Lesson1/src/Topshiriq6/Topshiriq-6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,34 +48,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.Main1Kt.executor": "Run",
-    "Kotlin.Main2Kt.executor": "Run",
-    "Kotlin.Main3Kt.executor": "Run",
-    "Kotlin.Main4Kt.executor": "Run",
-    "Kotlin.Main5Kt.executor": "Run",
-    "Kotlin.Main6Kt.executor": "Run",
-    "Kotlin.Main7Kt.executor": "Run",
-    "Kotlin.Main8Kt.executor": "Run",
-    "Kotlin.Main9Kt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin.RegistrationKt.executor": "Run",
-    "Kotlin.Topshiriq_1Kt.executor": "Run",
-    "Kotlin.Topshiriq_2Kt.executor": "Debug",
-    "Kotlin.Topshiriq_3Kt.executor": "Run",
-    "Kotlin.Topshiriq_4Kt.executor": "Run",
-    "Kotlin.Topshiriq_5Kt.executor": "Run",
-    "Kotlin.Topshiriq_6Kt.executor": "Run",
-    "Kotlin.Topshiriq_7Kt.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/bunyodjonraxmonov/kotlin-android-bootcamp/01-kotlin-basics/08-lesson/src/Main.kt",
-    "settings.editor.selected.configurable": "MTHome"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Main1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Main9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.RegistrationKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Topshiriq_1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Topshiriq_2Kt.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin.Topshiriq_3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Topshiriq_4Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Topshiriq_5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Topshiriq_6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Topshiriq_7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/bunyodjonraxmonov/kotlin-android-bootcamp/01-kotlin-basics/08-lesson/src/Main.kt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTHome&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
       <recent name="Topshiriq-2" />
